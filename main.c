@@ -1,7 +1,7 @@
 #include "config.h"
 
 __idata byte ll[8][5];
-__idata byte hh[8][5];
+__idata byte hh[8]805];
 
 byte custom_input_action(byte data) {
 	if (UART_ON) {
